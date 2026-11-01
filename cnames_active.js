@@ -3353,6 +3353,7 @@ var cnames_active = {
   "sx": "screenrecx.netlify.app",
   "sxcu": "m-phoenix852.github.io/sxcu.js-docs",
   "sxw": "sxwjs.github.io",
+  "sgdev": "sgdev-official.github.io."
   "sydinh": "sydinh.github.io",
   "sygnal": "tpresley.github.io/sygnal",
   "synclyrics": "stef-00012.github.io/SyncLyrics-npm",
